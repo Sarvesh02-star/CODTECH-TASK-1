@@ -1,7 +1,11 @@
 **Name:** Sarvesh Sharadrao Thakare
+
 **Company:** CODTECH IT SOLUTIONS 
+
 **ID:** CT08DS9488
+
 **Domain:** Python Programming 
+
 **Duration:** October to November 2024
 
 ## Overview of the Project
